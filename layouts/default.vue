@@ -1,6 +1,8 @@
 <template>
   <div>
-    <nuxt />
+        <Nuxt name="top" />
+    <Nuxt />
+    <!-- <nuxt /> -->
   </div>
 </template>
 
