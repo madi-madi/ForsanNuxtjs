@@ -19,7 +19,7 @@
           target="_blank"
           class="button--grey"
         >GitHub</a>
-        <NLink to="/forsan" class="button--grey">Forsan</NLink>
+        <NLink to="/forsan/forsan" class="button--grey">Forsan</NLink>
       </div>
     </div>
   </section>
